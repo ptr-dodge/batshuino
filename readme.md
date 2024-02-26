@@ -29,4 +29,4 @@ python batshuino.py -i test.batsh -o test.ino
 ## Todo
 -   get shell scripts working
 -   write tests
--   integrate (arduino-cli)[https://github.com/arduino/arduino-cli]
+-   integrate [arduino-cli](https://github.com/arduino/arduino-cli)
